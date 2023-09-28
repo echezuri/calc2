@@ -7,7 +7,7 @@
 
     --fondo-calculadora: #f1f2f3; /*#17171C*/
     --texto: #000000; /*#FFFFFF*/
-    --primario: #4b5efc; /*#4B5EFC*/
+    --primario: #e28f30; /*#4B5EFC*/
     --secundario: #c8c9cf; /*#4E505F*/
     --terciario: #ffffff; /*#2E2F38*/
 
@@ -34,7 +34,7 @@ body {
 
     --fondo-calculadora: #17171c;
     --texto: #ffffff;
-    --primario: #4b5efc;
+    --primario: #e28f30;
     --secundario: #4e505f;
     --terciario: #2e2f38;
 }
