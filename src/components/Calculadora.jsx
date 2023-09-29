@@ -81,7 +81,7 @@ const Calculadora = () => {
       <Boton texto='+' clase='operacion' handleClick={escritura}/>
       <Boton texto='.' clase='numero' handleClick={escritura}/>
       <Boton texto='0' clase='numero' handleClick={escritura}/>
-      <Boton texto='◀' clase='numero' handleClick={eliminar}/>
+      <Boton texto='←' clase='numero' handleClick={eliminar}/>
       <Boton texto='=' clase='operacion' handleClick={resultado}/>
     </main>
   )
